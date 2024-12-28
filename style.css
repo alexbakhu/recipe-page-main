@@ -1,0 +1,78 @@
+body{
+     background-color: hsl(30, 54%, 90%);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+img{
+
+width: 100%;
+height: 200px;
+}
+.card{
+    background-color: white;
+    border-radius: 30px;
+padding: 100px;
+
+}
+
+
+.spani{
+background-color:hsl(331, 48%, 84%);
+color:hsl(332, 51%, 32%);
+padding: 20px;
+}
+.div1{
+display: flex;
+gap: 100px;
+border-bottom: 1px solid black;
+}
+.div2{
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;
+    }
+.div3{
+     display: flex;
+     gap: 100px;
+     border-bottom: 1px solid black; 
+        }
+.div4{
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;       
+            }
+          
+.span1{
+color: hsl(14, 45%, 36%);
+
+
+}
+
+
+.span2{
+    color: hsl(14, 45%, 36%);
+    
+ }.span3{
+        color: hsl(14, 45%, 36%);
+        
+        }
+
+
+
+ 
+ .span4{
+   color: hsl(14, 45%, 36%);
+ }
+  .span5{
+    color: hsl(14, 45%, 36%);
+  }
+  .span6{
+    color: hsl(14, 45%, 36%);
+     
+}
+.span7{
+    color: hsl(14, 45%, 36%);
+    
+    }
